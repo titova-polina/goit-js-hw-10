@@ -1,0 +1,49 @@
+@media screen and (min-width: 1200px) {
+  body {
+    margin: 40px 30px;
+  }
+
+  h2 {
+    font-size: 50px;
+    margin-top: 25px;
+  }
+
+  p {
+    font-size: 30px;
+    margin-top: 18px;
+  }
+
+  img {
+    padding-right: 15px;
+  }
+
+  .breed-select {
+    padding: 14px 24px;
+    font-size: 17px;
+  }
+
+  .select-wrapper {
+    top: 40;
+  }
+
+  .temperament {
+    font-size: 35px;
+  }
+
+  .loader {
+    width: 75px;
+    height: 75px;
+    margin-top: 105px;
+  }
+
+  .wrapper {
+    display: flex;
+    margin-top: 95px;
+  }
+
+  .description-wrapper {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

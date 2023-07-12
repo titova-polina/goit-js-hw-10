@@ -1,0 +1,46 @@
+@media screen and (min-width: 768px) {
+  body {
+    margin: 35px 25px;
+  }
+
+  img {
+    max-width: 500px;
+    max-height: 500px;
+  }
+
+  h2 {
+    font-size: 45px;
+    margin-top: 20px;
+  }
+
+  p {
+    font-size: 25px;
+    margin-top: 15px;
+  }
+
+  .breed-select {
+    padding: 14px 19px;
+  }
+
+  .select-wrapper {
+    top: 35;
+  }
+
+  .temperament {
+    font-size: 24px;
+  }
+
+  .loader {
+    width: 60px;
+    height: 60px;
+    margin-top: 85px;
+  }
+
+  .wrapper {
+    margin-top: 120px;
+  }
+
+  .img-wrap {
+    margin-top: 25px;
+  }
+}
